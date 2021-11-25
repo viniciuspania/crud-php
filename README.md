@@ -1,3 +1,7 @@
-# crud-php
+# CRUD PHP 
 
-Crud de clientes desenvolvido para estudos da linguagem PHP 
+CRUD de cadastro de clientes, escrito em PHP com fins de estudos. 
+
+- Foram utilizadas tecnologias básicas como Materialize (CSS) 
+- Linguagem Back-End (PHP)
+- Conexão com banco de dados MySQL 
