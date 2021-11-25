@@ -3,10 +3,10 @@
 // Conexão com o banco de dados 
 
 
-$servername = 'localhost';
-$username = 'root';
+$servername = '';
+$username = '';
 $password = '';
-$db_name = 'crud';
+$db_name = '';
 
 
 
